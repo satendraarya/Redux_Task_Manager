@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/satendraarya/Redux_Task_Manager/static/css/main.45eef5b9.css",
+    "main.js": "/satendraarya/Redux_Task_Manager/static/js/main.c08277b7.js",
+    "static/js/787.25a4f316.chunk.js": "/satendraarya/Redux_Task_Manager/static/js/787.25a4f316.chunk.js",
+    "static/media/download.jpeg": "/satendraarya/Redux_Task_Manager/static/media/download.4fa1c5a2925f4434c85c.jpeg",
+    "index.html": "/satendraarya/Redux_Task_Manager/index.html",
+    "main.45eef5b9.css.map": "/satendraarya/Redux_Task_Manager/static/css/main.45eef5b9.css.map",
+    "main.c08277b7.js.map": "/satendraarya/Redux_Task_Manager/static/js/main.c08277b7.js.map",
+    "787.25a4f316.chunk.js.map": "/satendraarya/Redux_Task_Manager/static/js/787.25a4f316.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45eef5b9.css",
+    "static/js/main.c08277b7.js"
+  ]
+}
