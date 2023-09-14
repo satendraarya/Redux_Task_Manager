@@ -1,7 +1,7 @@
 {
+  "homepage": "https://github.com/satendraarya/Redux_Task_Manager",
   "name": "task-manager",
   "version": "0.1.0",
-  "homepage": "https://github.com/satendraarya/Redux_Task_Manager",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
